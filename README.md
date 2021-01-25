@@ -8,7 +8,7 @@ This program evaluates what type of poker hand the input is in order of ranking.
   6. High Card: The highest card plays.
 
 ## Updates
-* [01/25] Plan on updating the program to implement the royal flush, straight flush, straight, and two pair.
+* [012521] Plan on updating the program to implement the royal flush, straight flush, straight, and two pair.
 
 ## How to Run
 * Download the pythonPoker file from the repository.
